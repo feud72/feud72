@@ -9,9 +9,9 @@
 
 - Front-end : Dart / 📱 Flutter Framework
 
-- Back-end / 🐍 Python Django and 🔥 Firebase 
+- Back-end : 🐍 Python Django and 🔥 Firebase 
 
-- And so on ... / 🖥️ Tensorflow and 🦎 Amazon Web Service  
+- and... : 🖥️ Tensorflow and 🦎 Amazon Web Service  
 
 ## 🔨 Portfolio
 
