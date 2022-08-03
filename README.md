@@ -7,10 +7,11 @@
 
 ## 🌱 I’m currently learning ...
 
-- Dart / Flutter
+- Front-end : Dart / 📱 Flutter Framework
 
-- Python / Django, DjangoRestFramework, Tensorflow
+- Back-end / 🐍 Python Django and 🔥 Firebase 
 
+- And so on ... / 🖥️ Tensorflow and 🦎 Amazon Web Service  
 
 ## 🔨 Portfolio
 
@@ -26,7 +27,7 @@
 
 ## 😄 Pronouns: ...
 
-- 개발 잘하고 싶따!!
+- 개발을 잘하고 싶따
 
 <!--
 **feud72/feud72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
