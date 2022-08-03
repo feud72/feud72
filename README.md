@@ -1,8 +1,8 @@
 ## 🔭 I’m currently working on ...
 
-- 고독한 1인 개발자 
+- 요양병원 재직 중
 
-- 요양병원에서 한의사로 재직 중입니다.
+- 아마추어 개발자
 
 
 ## 🌱 I’m currently learning ...
@@ -12,6 +12,7 @@
 - Back-end : 🐍 Python Django and 🔥 Firebase 
 
 - and... : 🖥️ Tensorflow and 🦎 Amazon Web Service  
+
 
 ## 🔨 Portfolio
 
