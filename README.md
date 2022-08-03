@@ -4,6 +4,8 @@
 
 - 아마추어 개발자
 
+- 개발을 잘하고 싶따
+
 
 ## 🌱 I’m currently learning ...
 
@@ -25,10 +27,6 @@
 
 - feud72@gmail.com
 
-
-## 😄 Pronouns: ...
-
-- 개발을 잘하고 싶따
 
 <!--
 **feud72/feud72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
