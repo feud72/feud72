@@ -2,9 +2,7 @@
 
 - 요양병원 재직 중
 
-- 아마추어 개발자
-
-- 개발을 잘하고 싶따
+- 개발을 잘하고 싶은 아마추어 개발자
 
 
 ## 🌱 I’m currently learning ...
@@ -20,10 +18,13 @@
 
 - [표준 한약처방](https://github.com/feud72/standard_herbal_medicine_web) (플러터)
 
-- (작업 중) 식물 검색 어플리케이션 (플러터, 장고)
+- (작업 중) 식물 검색 어플리케이션 (Flutter, Django restframework, AWS lightsail)
 
+  - 백엔드 : https://github.com/feud72/plant-server
 
-## 📫 How to reach me: ...
+  - 프론트엔드 : https://github.com/feud72/plant-client
+
+## 📫 How to reach me: 
 
 - feud72@gmail.com
 
